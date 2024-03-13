@@ -2563,6 +2563,108 @@
 				)
 			)
 		)
+		(symbol "MountingHole_Pad_1"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_1_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "SolderJumper_2_Bridged_1"
 			(pin_numbers hide)
 			(pin_names
@@ -3144,16 +3246,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 113.03) (xy 262.89 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08e4765e-3a8c-493b-b9af-8e069bb51470")
-	)
-	(wire
-		(pts
 			(xy 30.48 161.29) (xy 41.275 161.29)
 		)
 		(stroke
@@ -3201,16 +3293,6 @@
 			(type default)
 		)
 		(uuid "0f9ba287-2a61-479b-8852-ddd7990940ce")
-	)
-	(wire
-		(pts
-			(xy 242.57 110.49) (xy 262.89 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11f3811a-d3ff-4f6d-92df-14a17069e873")
 	)
 	(wire
 		(pts
@@ -3614,7 +3696,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.785 198.12) (xy 57.785 199.39)
+			(xy 57.15 198.12) (xy 57.15 199.39)
 		)
 		(stroke
 			(width 0)
@@ -4004,6 +4086,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 125.73) (xy 262.89 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a982acfa-8473-4e00-8e36-3b64e4c1219a")
+	)
+	(wire
+		(pts
 			(xy 109.22 165.1) (xy 153.67 165.1)
 		)
 		(stroke
@@ -4281,6 +4373,16 @@
 			(type default)
 		)
 		(uuid "d341f213-e0a8-4634-8bea-a8d265c1af4b")
+	)
+	(wire
+		(pts
+			(xy 242.57 123.19) (xy 262.89 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3c014f0-6bc2-4892-9a25-3fa32cfa2461")
 	)
 	(wire
 		(pts
@@ -4794,7 +4896,7 @@
 		(uuid "1fec2080-fdca-407a-8b81-770f4d99310a")
 	)
 	(label "STATES_C"
-		(at 260.35 113.03 180)
+		(at 260.35 125.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5586,7 +5688,7 @@
 		(uuid "f66398f1-1ae7-4d4d-939f-958c174c6bce")
 	)
 	(label "STATES_B"
-		(at 260.35 110.49 180)
+		(at 260.35 123.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6512,8 +6614,9 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_Pad_1")
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 57.785 195.58 0)
+		(at 57.15 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6521,7 +6624,7 @@
 		(dnp no)
 		(uuid "2a595d80-15cf-4357-8076-478d91d106d5")
 		(property "Reference" "H3"
-			(at 56.515 188.595 0)
+			(at 55.88 188.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6530,7 +6633,7 @@
 			)
 		)
 		(property "Value" "Mounting Hole"
-			(at 49.53 191.135 0)
+			(at 48.895 191.135 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6539,7 +6642,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 57.785 195.58 0)
+			(at 57.15 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6548,7 +6651,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.785 195.58 0)
+			(at 57.15 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6557,7 +6660,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 57.785 195.58 0)
+			(at 57.15 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6579,7 +6682,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 57.785 199.39 0)
+		(at 57.15 199.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6588,7 +6691,7 @@
 		(fields_autoplaced yes)
 		(uuid "30b0be8c-ccba-4b8e-ae46-c9df7354340a")
 		(property "Reference" "#PWR030"
-			(at 57.785 205.74 0)
+			(at 57.15 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6597,7 +6700,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.785 203.8334 0)
+			(at 57.15 203.8334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6606,7 +6709,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.785 199.39 0)
+			(at 57.15 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6615,7 +6718,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.785 199.39 0)
+			(at 57.15 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6624,7 +6727,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 57.785 199.39 0)
+			(at 57.15 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
