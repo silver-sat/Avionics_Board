@@ -900,7 +900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 142.24 100.33 0)
 			(effects
 				(font
@@ -928,6 +928,24 @@
 			)
 		)
 		(property "Part_Number" "06035C104K4Z2A"
+			(at 142.24 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "06031C104K4Z2A"
+			(at 142.24 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AVX"
 			(at 142.24 100.33 0)
 			(effects
 				(font
@@ -977,7 +995,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
 			(at 160.02 92.71 0)
 			(effects
 				(font

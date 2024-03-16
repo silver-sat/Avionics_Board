@@ -1707,7 +1707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 132.08 102.87 0)
 			(effects
 				(font
@@ -1878,7 +1878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 			(at 104.14 97.79 0)
 			(effects
 				(font
@@ -1974,7 +1974,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 101.346 75.184 90)
 			(effects
 				(font
@@ -2061,7 +2061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 114.046 75.184 90)
 			(effects
 				(font
@@ -2148,7 +2148,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 155.956 80.264 90)
 			(effects
 				(font
@@ -2233,7 +2233,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 138.43 49.53 0)
 			(effects
 				(font
@@ -2269,7 +2269,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "06035C104K4Z2A"
+		(property "MPN" "06031C104K4Z2A"
+			(at 138.43 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AVX"
 			(at 138.43 49.53 0)
 			(effects
 				(font
@@ -2452,7 +2461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 179.07 86.995 0)
 			(effects
 				(font
@@ -2516,7 +2525,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 138.43 62.23 0)
 			(effects
 				(font
@@ -2678,7 +2687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 132.08 137.795 0)
 			(effects
 				(font

@@ -1994,7 +1994,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 64.77 34.29 0)
 			(effects
 				(font
@@ -2071,7 +2071,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1u"
 			(at 72.39 26.3906 90)
 			(effects
 				(font
@@ -2079,7 +2079,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 68.58 31.4452 0)
 			(effects
 				(font
@@ -2107,6 +2107,24 @@
 			)
 		)
 		(property "Part_Number" "06035C104K4Z2A"
+			(at 72.39 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "06031C104K4Z2A"
+			(at 72.39 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AVX"
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -2354,7 +2372,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 200.025 32.385 0)
 			(effects
 				(font
@@ -2431,7 +2449,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1u"
 			(at 207.645 24.4856 90)
 			(effects
 				(font
@@ -2439,7 +2457,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 203.835 29.5402 0)
 			(effects
 				(font
@@ -2467,6 +2485,24 @@
 			)
 		)
 		(property "Part_Number" "06035C104K4Z2A"
+			(at 207.645 28.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "06031C104K4Z2A"
+			(at 207.645 28.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AVX"
 			(at 207.645 28.575 0)
 			(effects
 				(font
@@ -2714,7 +2750,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 64.77 85.09 0)
 			(effects
 				(font
@@ -2791,7 +2827,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1u"
 			(at 72.39 77.1906 90)
 			(effects
 				(font
@@ -2799,7 +2835,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 68.58 82.2452 0)
 			(effects
 				(font
@@ -2827,6 +2863,24 @@
 			)
 		)
 		(property "Part_Number" "06035C104K4Z2A"
+			(at 72.39 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "06031C104K4Z2A"
+			(at 72.39 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AVX"
 			(at 72.39 81.28 0)
 			(effects
 				(font
@@ -3074,7 +3128,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 201.93 81.28 0)
 			(effects
 				(font
@@ -3151,7 +3205,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1u"
 			(at 209.55 73.3806 90)
 			(effects
 				(font
@@ -3159,7 +3213,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 205.74 78.4352 0)
 			(effects
 				(font
@@ -3187,6 +3241,24 @@
 			)
 		)
 		(property "Part_Number" "06035C104K4Z2A"
+			(at 209.55 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "06031C104K4Z2A"
+			(at 209.55 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AVX"
 			(at 209.55 77.47 0)
 			(effects
 				(font
@@ -3434,7 +3506,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 63.5 135.89 0)
 			(effects
 				(font
@@ -3511,7 +3583,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1u"
 			(at 71.12 127.9906 90)
 			(effects
 				(font
@@ -3519,7 +3591,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 67.31 133.0452 0)
 			(effects
 				(font
@@ -3547,6 +3619,24 @@
 			)
 		)
 		(property "Part_Number" "06035C104K4Z2A"
+			(at 71.12 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "06031C104K4Z2A"
+			(at 71.12 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AVX"
 			(at 71.12 132.08 0)
 			(effects
 				(font
@@ -3794,7 +3884,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 201.93 130.81 0)
 			(effects
 				(font
@@ -3871,7 +3961,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1u"
 			(at 209.55 122.9106 90)
 			(effects
 				(font
@@ -3879,7 +3969,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 205.74 127.9652 0)
 			(effects
 				(font
@@ -3907,6 +3997,24 @@
 			)
 		)
 		(property "Part_Number" "06035C104K4Z2A"
+			(at 209.55 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "06031C104K4Z2A"
+			(at 209.55 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AVX"
 			(at 209.55 127 0)
 			(effects
 				(font
@@ -4222,7 +4330,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 201.93 100.33 0)
 			(effects
 				(font
@@ -4433,7 +4541,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 64.77 104.14 0)
 			(effects
 				(font
@@ -4509,7 +4617,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 201.93 149.225 0)
 			(effects
 				(font
@@ -5058,7 +5166,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 200.025 51.435 0)
 			(effects
 				(font
@@ -5201,7 +5309,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 64.77 53.975 0)
 			(effects
 				(font
@@ -5344,7 +5452,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 63.5 154.94 0)
 			(effects
 				(font

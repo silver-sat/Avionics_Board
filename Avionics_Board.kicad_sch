@@ -7903,6 +7903,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "TSW-108-26-L-S"
+			(at 25.4 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samtec"
+			(at 25.4 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ac43b6c-f44d-4fa7-ae94-8bf6fea74413")
 		)

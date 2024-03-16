@@ -372,7 +372,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -640,7 +640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -755,7 +755,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -991,7 +991,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "726abff2-7f79-4d24-aae8-6d81535871b3")
@@ -1002,7 +1002,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1238,7 +1238,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1510,7 +1510,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SilverSat_footprints:TheBus2x26"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2442,7 +2442,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2701,7 +2701,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2924,7 +2924,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3156,7 +3156,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3392,7 +3392,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3628,7 +3628,7 @@
 				)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "330K"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "42d623cd-d11a-42f9-b022-b1baeb94671f")
@@ -3639,7 +3639,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3862,7 +3862,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4032,7 +4032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4242,7 +4242,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4539,7 +4539,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4774,12 +4774,12 @@
 		(layer "F.Cu")
 		(uuid "1eaf1175-8b6c-4ef0-9ba2-d8677dabba92")
 		(at 129.032 124.338)
-		(descr "TQFP, 48 Pin (https://www.jedec.org/system/files/docs/MS-026D.pdf var ABC), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+		(descr "TQFP, 48 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/48L_TQFP_7x7x1_0mm_PT_C04-00300d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "TQFP QFP")
 		(property "Reference" "U9"
 			(at -4.826 -4.704 0)
 			(layer "F.SilkS")
-			(uuid "042631b6-9b18-4e08-b9dd-fc4ffc61ed85")
+			(uuid "5589021b-6273-4896-95cc-4ec764cf5c64")
 			(effects
 				(font
 					(size 1 1)
@@ -4790,7 +4790,7 @@
 		(property "Value" "ATSAMD21G18A-A"
 			(at 0 5.85 0)
 			(layer "F.Fab")
-			(uuid "29d6e733-735d-4e2f-b6aa-eb0ba89bf355")
+			(uuid "55711690-78af-47d5-9da2-e0aa5224731b")
 			(effects
 				(font
 					(size 1 1)
@@ -4798,12 +4798,12 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_QFP:TQFP-48_7x7mm_P0.5mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59336692-39f1-41b2-9c17-6478e5867380")
+			(uuid "e55947f8-0919-48a9-9a35-bfd6c4a0bdcc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4815,7 +4815,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d7acf2ea-7885-46c5-ba90-be06426ef912")
+			(uuid "abec0d7f-197f-435c-9952-ba4628ebee66")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4827,7 +4827,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "05287402-5790-4194-8125-c2c7ee36b03d")
+			(uuid "527a0dfd-ae84-4f05-8ec3-2afb24273060")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4885,17 +4885,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cb587323-7e48-4590-b46d-8cb39ea20c96")
-		)
-		(fp_line
-			(start -3.61 -3.16)
-			(end -4.9 -3.16)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d261e92e-8281-4ee4-9b8a-f6405c8154eb")
+			(uuid "ae2a362d-4cc2-4a6f-984c-4c6baa247c69")
 		)
 		(fp_line
 			(start -3.61 3.61)
@@ -4905,7 +4895,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0a9cdeca-4cea-440c-8e36-6448fa4547a9")
+			(uuid "7bf2ad07-9b15-4686-95bf-6e3dd21a333c")
 		)
 		(fp_line
 			(start -3.16 -3.61)
@@ -4915,7 +4905,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3fb1fb6f-8e8b-4528-bdd0-912575101bca")
+			(uuid "3c669028-713e-404c-86aa-5150d97684dc")
 		)
 		(fp_line
 			(start -3.16 3.61)
@@ -4925,7 +4915,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b56dc173-3b30-442a-9794-c4e6e1478fb3")
+			(uuid "ec005546-dd10-40ab-9cc5-3fc4aab9c512")
 		)
 		(fp_line
 			(start 3.16 -3.61)
@@ -4935,7 +4925,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "84f439e8-1444-4fe8-b51a-3bb9769a863d")
+			(uuid "e35e6703-7502-4fb2-bd8e-a9c860dcf3a0")
 		)
 		(fp_line
 			(start 3.16 3.61)
@@ -4945,7 +4935,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1e6b394d-08b4-4cc4-9141-58bd9a5255c4")
+			(uuid "2aa6a11c-80e9-4817-ad76-060018f3765d")
 		)
 		(fp_line
 			(start 3.61 -3.61)
@@ -4955,7 +4945,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "526412ca-ff2d-4c4c-a6b8-615197795203")
+			(uuid "4bf2ee71-adf3-436f-9781-eda11e4079a1")
 		)
 		(fp_line
 			(start 3.61 3.61)
@@ -4965,7 +4955,19 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ce742275-997a-4549-a082-bb44f83c281d")
+			(uuid "4e3a2d3e-5d49-49b8-bee0-e1304223ea87")
+		)
+		(fp_poly
+			(pts
+				(xy -4.2 -3.16) (xy -4.54 -3.63) (xy -3.86 -3.63) (xy -4.2 -3.16)
+			)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "f5deb797-223c-48e8-b750-f353b5de068f")
 		)
 		(fp_line
 			(start -5.15 -3.15)
@@ -4975,7 +4977,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ea815632-2522-456c-9c06-1698b52e8f45")
+			(uuid "c6489a6e-4b5c-4abf-a24c-999952718735")
 		)
 		(fp_line
 			(start -5.15 3.15)
@@ -4985,7 +4987,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b695eb46-450e-4eb2-b4f6-7797566f2d33")
+			(uuid "af17ccb9-46c7-4ac9-8bbc-0c247db822c9")
 		)
 		(fp_line
 			(start -3.75 -3.75)
@@ -4995,7 +4997,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2d86545d-effc-4895-8262-094e0e584150")
+			(uuid "a48de31b-7a67-4c1a-830c-7dee2ae74c12")
 		)
 		(fp_line
 			(start -3.75 -3.15)
@@ -5005,7 +5007,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2f4d43f0-2c6f-40e4-b01b-d9f5f61213cf")
+			(uuid "8dce358c-0a43-47fa-809a-ca1dbd4b2bf8")
 		)
 		(fp_line
 			(start -3.75 3.15)
@@ -5015,7 +5017,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0eecb7fc-17f3-4c60-860c-7ade0fdf45df")
+			(uuid "d31cbfa7-1e87-4f08-aec5-1352f775b23c")
 		)
 		(fp_line
 			(start -3.75 3.75)
@@ -5025,7 +5027,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9e009489-8756-42b7-b16f-91e111f0cb9d")
+			(uuid "a3996149-a20b-4a80-bbc9-8886ae7c13d0")
 		)
 		(fp_line
 			(start -3.15 -5.15)
@@ -5035,7 +5037,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f29d2293-062b-4eb3-91db-e67b29d965e6")
+			(uuid "447ef406-9c27-42e3-a656-d3ea0f734b17")
 		)
 		(fp_line
 			(start -3.15 -3.75)
@@ -5045,7 +5047,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "1001c4e4-1736-44e0-9c6d-47746bd93819")
+			(uuid "52707d8c-9b94-4608-a328-c93d962d0318")
 		)
 		(fp_line
 			(start -3.15 3.75)
@@ -5055,7 +5057,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cf2c0cbe-939b-43de-9998-0251a6f567d1")
+			(uuid "812acc40-1e6e-49f1-be35-83dde7bf4c27")
 		)
 		(fp_line
 			(start -3.15 5.15)
@@ -5065,7 +5067,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "de9c7f57-1312-4a88-b00b-ea89f34955d1")
+			(uuid "d3526a9f-6175-45eb-88dc-e0068a07115c")
 		)
 		(fp_line
 			(start 0 -5.15)
@@ -5075,7 +5077,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e64be00d-07ff-43e2-ad9c-02dce133c383")
+			(uuid "2d70a8e7-1da7-4683-8267-2fa288e6c117")
 		)
 		(fp_line
 			(start 0 -5.15)
@@ -5085,7 +5087,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "967bfeed-2813-44dd-9fee-49956e90d0d5")
+			(uuid "6acb3cb0-be75-4a8f-be5b-cc837dcba3e2")
 		)
 		(fp_line
 			(start 0 5.15)
@@ -5095,7 +5097,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "d3fd9b9b-33ed-427b-a7ca-8ecec3bbf276")
+			(uuid "61691565-49c0-4da1-9850-fcfe5ee015fc")
 		)
 		(fp_line
 			(start 0 5.15)
@@ -5105,7 +5107,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9950b7a2-ecbd-4572-b5f2-f48ab15dc337")
+			(uuid "47f801cb-0cfe-4e81-90da-b0ae30fb4066")
 		)
 		(fp_line
 			(start 3.15 -5.15)
@@ -5115,7 +5117,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "252cdbb4-1d64-4ce9-ac46-3b77a04273a3")
+			(uuid "c39d9baf-2fa0-4372-9757-cf00c59ce98c")
 		)
 		(fp_line
 			(start 3.15 -3.75)
@@ -5125,7 +5127,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "25729204-7847-4c63-8a01-ca92bb1de211")
+			(uuid "7b598e0e-47d2-44d4-9003-07c3b5a7c672")
 		)
 		(fp_line
 			(start 3.15 3.75)
@@ -5135,7 +5137,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3698f65f-8ff4-4a7f-80c7-51a77cb25e3f")
+			(uuid "f7144904-536b-4377-afe3-ee0959e28cf0")
 		)
 		(fp_line
 			(start 3.15 5.15)
@@ -5145,7 +5147,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2e370670-2291-4657-8360-03c3bd44e418")
+			(uuid "e75c2d87-314c-4c4d-b925-d84802b5f4e2")
 		)
 		(fp_line
 			(start 3.75 -3.75)
@@ -5155,7 +5157,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "01ebbe10-e6c6-4a31-9859-1172e54c7325")
+			(uuid "a6e7c07e-0685-4014-91f6-c3ca424b3a83")
 		)
 		(fp_line
 			(start 3.75 -3.15)
@@ -5165,7 +5167,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "42529937-07e7-472e-ac82-336cf5a05677")
+			(uuid "e4b2f1b1-b7ea-45cc-83c9-b861b2b4fc49")
 		)
 		(fp_line
 			(start 3.75 3.15)
@@ -5175,7 +5177,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "02069979-f9bd-41f6-9169-57f3c0f5fb04")
+			(uuid "b8dc997e-6df3-4fff-889c-6ed4824c995b")
 		)
 		(fp_line
 			(start 3.75 3.75)
@@ -5185,7 +5187,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "fad79a33-dec4-4b15-a6fe-3a65c5cd5d63")
+			(uuid "b1eda9d8-7f57-4332-891b-ae5ba2651eb1")
 		)
 		(fp_line
 			(start 5.15 -3.15)
@@ -5195,7 +5197,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c703dcf5-f805-4efd-8144-bd4e79b2e38e")
+			(uuid "390b83bc-3c06-4f06-8cc3-ddacfd7cf387")
 		)
 		(fp_line
 			(start 5.15 3.15)
@@ -5205,7 +5207,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b16aaa51-ca86-46ba-b7b5-701f80930117")
+			(uuid "583cae7c-308f-4e12-ab25-67ebbdae3dfd")
 		)
 		(fp_line
 			(start -3.5 -2.5)
@@ -5215,7 +5217,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5a12d0c8-f044-43d5-8baa-df394247495f")
+			(uuid "413821ba-568d-4e38-a0fb-5b1c3b53b27c")
 		)
 		(fp_line
 			(start -3.5 3.5)
@@ -5225,7 +5227,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "21e2fc1c-38ea-4747-8761-aa664e289f78")
+			(uuid "0b82cab0-23fc-492a-992a-44534409b5cc")
 		)
 		(fp_line
 			(start -2.5 -3.5)
@@ -5235,7 +5237,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "796f8ebf-2501-48e8-bb3d-744acfdc87ce")
+			(uuid "63b5f3ab-cd19-4182-92ba-1a9964a682d4")
 		)
 		(fp_line
 			(start 3.5 -3.5)
@@ -5245,7 +5247,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2164a504-0a78-4830-9495-d22747cceecd")
+			(uuid "1df42594-589b-40e1-9f51-119617dd5b48")
 		)
 		(fp_line
 			(start 3.5 3.5)
@@ -5255,12 +5257,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "24bd586a-829a-40ac-b56a-11246cefbefb")
+			(uuid "fb328a20-22e1-4d55-88f5-6eeaf6207a15")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "5e987534-a735-4fd2-86b8-4290218bfdff")
+			(uuid "3a5549cc-c690-4cbf-83d5-4054741f0f88")
 			(effects
 				(font
 					(size 1 1)
@@ -5276,7 +5278,7 @@
 			(net 51 "/Microcontroller/X1")
 			(pinfunction "PA00")
 			(pintype "bidirectional")
-			(uuid "18c14527-45e2-43a0-86b5-b0b900e19dcd")
+			(uuid "3be27ce1-27fa-49d9-ba34-61946a768d2f")
 		)
 		(pad "2" smd roundrect
 			(at -4.1625 -2.25)
@@ -5286,7 +5288,7 @@
 			(net 52 "/Microcontroller/X2")
 			(pinfunction "PA01")
 			(pintype "bidirectional")
-			(uuid "000d26ad-862d-4c20-ace6-7640c099f608")
+			(uuid "2265c87a-2610-4ef2-894e-8b42b9094483")
 		)
 		(pad "3" smd roundrect
 			(at -4.1625 -1.75)
@@ -5296,7 +5298,7 @@
 			(net 24 "/GPIO_A")
 			(pinfunction "PA02")
 			(pintype "bidirectional")
-			(uuid "53defa58-71e4-450a-ae8f-b716d2733a95")
+			(uuid "4f87f95f-4269-4aa2-9c49-22196b1da9a8")
 		)
 		(pad "4" smd roundrect
 			(at -4.1625 -1.25)
@@ -5306,7 +5308,7 @@
 			(net 53 "/Microcontroller/AREF")
 			(pinfunction "PA03")
 			(pintype "bidirectional")
-			(uuid "2b2f5dd1-c25c-4115-9b80-8fc340d09299")
+			(uuid "71073a2a-b13e-4aa5-ad6b-a9d54f78daaa")
 		)
 		(pad "5" smd roundrect
 			(at -4.1625 -0.75)
@@ -5316,7 +5318,7 @@
 			(net 1 "GND")
 			(pinfunction "GNDANA")
 			(pintype "power_in")
-			(uuid "43b9f4b8-e8e3-4cf4-84b0-6e2f652ad28f")
+			(uuid "3d130a5e-f072-49f5-94cd-794c3183aaaf")
 		)
 		(pad "6" smd roundrect
 			(at -4.1625 -0.25)
@@ -5326,7 +5328,7 @@
 			(net 11 "Net-(U9-VDDANA)")
 			(pinfunction "VDDANA")
 			(pintype "power_in")
-			(uuid "195de849-1416-4725-b031-a2363ca7bbed")
+			(uuid "5cf1c16e-9974-414b-adc0-45cde945ba7a")
 		)
 		(pad "7" smd roundrect
 			(at -4.1625 0.25)
@@ -5336,7 +5338,7 @@
 			(net 54 "/GPIO13")
 			(pinfunction "PB08")
 			(pintype "bidirectional")
-			(uuid "dc2d36c3-f4c9-484d-a532-a38278dfe640")
+			(uuid "1f69f1ff-f24e-4cc2-b564-cfcd28ab7f8a")
 		)
 		(pad "8" smd roundrect
 			(at -4.1625 0.75)
@@ -5346,7 +5348,7 @@
 			(net 55 "/GPIO12")
 			(pinfunction "PB09")
 			(pintype "bidirectional")
-			(uuid "4299c95d-d023-48bb-a76f-27b2ce274c21")
+			(uuid "082135cc-6e39-4659-b9a1-16728163df98")
 		)
 		(pad "9" smd roundrect
 			(at -4.1625 1.25)
@@ -5356,7 +5358,7 @@
 			(net 21 "/PLD_ON_A_Int")
 			(pinfunction "PA04")
 			(pintype "bidirectional")
-			(uuid "37768f79-ce17-4da3-a550-e07e7a120b7c")
+			(uuid "ca0cc1de-8b58-4b96-a214-dfd91b79ba97")
 		)
 		(pad "10" smd roundrect
 			(at -4.1625 1.75)
@@ -5366,7 +5368,7 @@
 			(net 56 "/PLD_ON_B_Int")
 			(pinfunction "PA05")
 			(pintype "bidirectional")
-			(uuid "515e875b-6b2b-4733-8c6d-41762f184eeb")
+			(uuid "5efd6904-40a3-465e-9671-1c1fc870bc91")
 		)
 		(pad "11" smd roundrect
 			(at -4.1625 2.25)
@@ -5376,7 +5378,7 @@
 			(net 57 "/PLD_ON_C_Int")
 			(pinfunction "PA06")
 			(pintype "bidirectional")
-			(uuid "26dfb70b-0672-4eb6-a423-7eca8fa11947")
+			(uuid "64f98c2c-aa5d-4c43-a949-f0944ba9c607")
 		)
 		(pad "12" smd roundrect
 			(at -4.1625 2.75)
@@ -5386,7 +5388,7 @@
 			(net 22 "/STATES_A_Int")
 			(pinfunction "PA07")
 			(pintype "bidirectional")
-			(uuid "44d50cf2-8bea-4112-9d30-477d02e50476")
+			(uuid "de894155-9246-4e61-81c7-68596dad3be3")
 		)
 		(pad "13" smd roundrect
 			(at -2.75 4.1625)
@@ -5396,7 +5398,7 @@
 			(net 19 "/SDA_NON_CRIT")
 			(pinfunction "PA08")
 			(pintype "bidirectional")
-			(uuid "6a16f8cf-0804-4eea-93b0-d78a444b2695")
+			(uuid "a28ded66-2b80-4d78-8cf6-44db2fbd7cec")
 		)
 		(pad "14" smd roundrect
 			(at -2.25 4.1625)
@@ -5406,7 +5408,7 @@
 			(net 20 "/SCL_NON_CRIT")
 			(pinfunction "PA09")
 			(pintype "bidirectional")
-			(uuid "38359ac8-3053-4965-971b-ac7077454511")
+			(uuid "d5154281-e2e1-450d-8367-b32e74d508a4")
 		)
 		(pad "15" smd roundrect
 			(at -1.75 4.1625)
@@ -5416,7 +5418,7 @@
 			(net 12 "/PAYLOAD_TXD")
 			(pinfunction "PA10")
 			(pintype "bidirectional")
-			(uuid "33254341-fe97-4a2f-9b21-4bc5e7ab04c3")
+			(uuid "159966f1-4eab-464b-a810-1ad2af6c99b2")
 		)
 		(pad "16" smd roundrect
 			(at -1.25 4.1625)
@@ -5426,7 +5428,7 @@
 			(net 8 "/PAYLOAD_RXD")
 			(pinfunction "PA11")
 			(pintype "bidirectional")
-			(uuid "cd6c6282-c78a-4978-b514-e12e323b71ba")
+			(uuid "e844a670-01b4-4362-bfce-0bc2a586b7b7")
 		)
 		(pad "17" smd roundrect
 			(at -0.75 4.1625)
@@ -5436,7 +5438,7 @@
 			(net 2 "+3V3")
 			(pinfunction "VDDIO")
 			(pintype "power_in")
-			(uuid "4a695da9-73c5-4eda-80d5-d4bc04662a45")
+			(uuid "46116784-484d-451f-8936-4e44b702f5d7")
 		)
 		(pad "18" smd roundrect
 			(at -0.25 4.1625)
@@ -5446,7 +5448,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "f57d1196-2dc3-432c-9fad-b9cc538e3568")
+			(uuid "95ad77d5-f2f9-4228-b5e9-8ce668fd3fca")
 		)
 		(pad "19" smd roundrect
 			(at 0.25 4.1625)
@@ -5456,7 +5458,7 @@
 			(net 31 "/MOSI")
 			(pinfunction "PB10")
 			(pintype "bidirectional")
-			(uuid "b9928b27-f0dd-48f8-acb2-613985806305")
+			(uuid "7fa8c7f0-f130-4b69-a397-21eec1278e72")
 		)
 		(pad "20" smd roundrect
 			(at 0.75 4.1625)
@@ -5466,7 +5468,7 @@
 			(net 30 "/SCK")
 			(pinfunction "PB11")
 			(pintype "bidirectional")
-			(uuid "813faead-ceff-4e83-9ea1-1fd9174fb14f")
+			(uuid "9150ac28-088c-4f79-95af-e0009e15626e")
 		)
 		(pad "21" smd roundrect
 			(at 1.25 4.1625)
@@ -5476,7 +5478,7 @@
 			(net 29 "/MISO")
 			(pinfunction "PA12")
 			(pintype "bidirectional")
-			(uuid "7c2b42cb-4e08-4725-a879-28d570fa8929")
+			(uuid "93789790-1efd-49ea-a59c-0e3c4e7a9ae0")
 		)
 		(pad "22" smd roundrect
 			(at 1.75 4.1625)
@@ -5486,7 +5488,7 @@
 			(net 58 "/EN_PAYLOAD_SERIAL")
 			(pinfunction "PA13")
 			(pintype "bidirectional")
-			(uuid "ab4206d0-a82c-4c16-b65a-aa371055f5e8")
+			(uuid "dd1d5292-87b3-419b-9b3d-cb9bf7d45051")
 		)
 		(pad "23" smd roundrect
 			(at 2.25 4.1625)
@@ -5496,7 +5498,7 @@
 			(net 59 "/STATES_B_Int")
 			(pinfunction "PA14")
 			(pintype "bidirectional")
-			(uuid "268e252d-93ab-43cb-a1d9-6bd25a29d492")
+			(uuid "001f12fb-a2c0-4253-9255-bb6bfa9c37f2")
 		)
 		(pad "24" smd roundrect
 			(at 2.75 4.1625)
@@ -5506,7 +5508,7 @@
 			(net 60 "/STATES_C_Int")
 			(pinfunction "PA15")
 			(pintype "bidirectional")
-			(uuid "f35081e5-4d9d-4810-959a-e8417546c827")
+			(uuid "675824dc-6d82-43ae-9de3-316d8b2ff9b6")
 		)
 		(pad "25" smd roundrect
 			(at 4.1625 2.75)
@@ -5516,7 +5518,7 @@
 			(net 14 "/RADIO_TXD")
 			(pinfunction "PA16")
 			(pintype "bidirectional")
-			(uuid "7ce3c2e3-3b18-4860-9394-e21dcc6a9b8d")
+			(uuid "f0939a8b-59b5-4bc1-9611-c0ae9b39a481")
 		)
 		(pad "26" smd roundrect
 			(at 4.1625 2.25)
@@ -5526,7 +5528,7 @@
 			(net 10 "/RADIO_RXD")
 			(pinfunction "PA17")
 			(pintype "bidirectional")
-			(uuid "8ca36f11-c113-45ae-b465-5f821de99560")
+			(uuid "0aad0839-a4d9-4d1f-a000-54134783bc14")
 		)
 		(pad "27" smd roundrect
 			(at 4.1625 1.75)
@@ -5536,7 +5538,7 @@
 			(net 61 "/EN_RADIO_SERIAL")
 			(pinfunction "PA18")
 			(pintype "bidirectional")
-			(uuid "09dd76e1-930c-450c-a8fc-8e63bacfb6f7")
+			(uuid "a30658bb-2f3a-459d-b670-488ccc0876b5")
 		)
 		(pad "28" smd roundrect
 			(at 4.1625 1.25)
@@ -5546,7 +5548,7 @@
 			(net 62 "/EN_EXT_I2C")
 			(pinfunction "PA19")
 			(pintype "bidirectional")
-			(uuid "aec10420-1c5f-4a46-8e68-2b8d003744c9")
+			(uuid "d5f6879a-9718-4816-8d8c-fa88fba1ed2f")
 		)
 		(pad "29" smd roundrect
 			(at 4.1625 0.75)
@@ -5556,7 +5558,7 @@
 			(net 63 "/TXD2")
 			(pinfunction "PA20")
 			(pintype "bidirectional")
-			(uuid "66350bd0-f7fa-476b-9807-83f8d68f96d0")
+			(uuid "74c33e94-74dd-44df-997f-abf5043576ec")
 		)
 		(pad "30" smd roundrect
 			(at 4.1625 0.25)
@@ -5566,7 +5568,7 @@
 			(net 64 "/RXD2")
 			(pinfunction "PA21")
 			(pintype "bidirectional")
-			(uuid "d6204411-2f8b-468d-94ea-b19aba04585a")
+			(uuid "b919975b-4ccb-430f-a521-fbfd94442d6f")
 		)
 		(pad "31" smd roundrect
 			(at 4.1625 -0.25)
@@ -5576,7 +5578,7 @@
 			(net 47 "/SDA_CRIT")
 			(pinfunction "PA22")
 			(pintype "bidirectional")
-			(uuid "d555a2dd-9f3d-4a17-afc2-dea0736c0972")
+			(uuid "67859ba5-5733-47a5-a8bf-558a2e1efe74")
 		)
 		(pad "32" smd roundrect
 			(at 4.1625 -0.75)
@@ -5586,7 +5588,7 @@
 			(net 48 "/SCL_CRIT")
 			(pinfunction "PA23")
 			(pintype "bidirectional")
-			(uuid "ae2d5f76-23dd-40a5-b83f-d046e025678e")
+			(uuid "3842643d-29b4-4ec5-b041-4add5a8cce8d")
 		)
 		(pad "33" smd roundrect
 			(at 4.1625 -1.25)
@@ -5596,7 +5598,7 @@
 			(net 25 "/Microcontroller/USB_D-")
 			(pinfunction "PA24")
 			(pintype "bidirectional")
-			(uuid "5193153d-e05e-4fbb-b393-b2b7362eaa1f")
+			(uuid "a242b68d-07a8-4724-a751-d4eddb781d60")
 		)
 		(pad "34" smd roundrect
 			(at 4.1625 -1.75)
@@ -5606,7 +5608,7 @@
 			(net 26 "/Microcontroller/USB_D+")
 			(pinfunction "PA25")
 			(pintype "bidirectional")
-			(uuid "9a4a6ceb-0366-44a1-ac4f-20ffccb74c3c")
+			(uuid "92c00617-8b89-4d21-9bd2-ee0183429b7c")
 		)
 		(pad "35" smd roundrect
 			(at 4.1625 -2.25)
@@ -5616,7 +5618,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "0554779d-8a3f-4703-963a-3a6d1e0fe767")
+			(uuid "8e36554a-41f6-46c6-aca7-9fab3a849929")
 		)
 		(pad "36" smd roundrect
 			(at 4.1625 -2.75)
@@ -5626,7 +5628,7 @@
 			(net 2 "+3V3")
 			(pinfunction "VDDIO")
 			(pintype "power_in")
-			(uuid "7a0aff9d-3db6-4925-b450-c4cc07b98f6e")
+			(uuid "1dc95ce8-048b-49c5-b01b-8b22ff875f6b")
 		)
 		(pad "37" smd roundrect
 			(at 2.75 -4.1625)
@@ -5636,7 +5638,7 @@
 			(net 65 "/SHUTDOWN_C")
 			(pinfunction "PB22")
 			(pintype "bidirectional")
-			(uuid "1ac5048d-b0c0-4de3-9895-a616185014c6")
+			(uuid "de6a53d4-3cb1-4fd1-8e7f-80ffc59fd5ac")
 		)
 		(pad "38" smd roundrect
 			(at 2.25 -4.1625)
@@ -5646,7 +5648,7 @@
 			(net 66 "/WDTICK")
 			(pinfunction "PB23")
 			(pintype "bidirectional")
-			(uuid "8be08611-7208-4e21-90b4-0a7bd788536a")
+			(uuid "65c032b0-7a91-4722-98b3-aa08e585774e")
 		)
 		(pad "39" smd roundrect
 			(at 1.75 -4.1625)
@@ -5656,7 +5658,7 @@
 			(net 43 "/Microcontroller/TXLED")
 			(pinfunction "PA27")
 			(pintype "bidirectional")
-			(uuid "28ad8bbd-6d56-4131-9d9a-a4d4de325913")
+			(uuid "9f4cddb3-328f-438c-8db2-8d2b62198162")
 		)
 		(pad "40" smd roundrect
 			(at 1.25 -4.1625)
@@ -5666,7 +5668,7 @@
 			(net 7 "Net-(U9-~{RESET})")
 			(pinfunction "~{RESET}")
 			(pintype "input")
-			(uuid "e4b7b7b4-e125-4918-92b6-20665a764878")
+			(uuid "13353c1a-9848-43e5-b2fc-e999fb82976c")
 		)
 		(pad "41" smd roundrect
 			(at 0.75 -4.1625)
@@ -5676,7 +5678,7 @@
 			(net 27 "/Microcontroller/USB_HOST_EN")
 			(pinfunction "PA28")
 			(pintype "bidirectional")
-			(uuid "025472fb-8a12-4fc4-aeeb-630a76079ae2")
+			(uuid "3becf887-4b7c-41c7-b24e-24266fb9677c")
 		)
 		(pad "42" smd roundrect
 			(at 0.25 -4.1625)
@@ -5686,7 +5688,7 @@
 			(net 1 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "c12e8a89-f526-49d0-a9ad-6647837c48e3")
+			(uuid "0989837e-c1bd-4e96-b455-447c799045f3")
 		)
 		(pad "43" smd roundrect
 			(at -0.25 -4.1625)
@@ -5696,7 +5698,7 @@
 			(net 9 "Net-(U9-VDDCORE)")
 			(pinfunction "VDDCORE")
 			(pintype "power_out")
-			(uuid "0368756e-259a-4403-9f59-4ac2cd4ef727")
+			(uuid "7f801925-c198-4067-af15-53a757103be1")
 		)
 		(pad "44" smd roundrect
 			(at -0.75 -4.1625)
@@ -5706,7 +5708,7 @@
 			(net 2 "+3V3")
 			(pinfunction "VDDIN")
 			(pintype "power_in")
-			(uuid "ec6af255-3fed-4d18-a575-0bef521de184")
+			(uuid "c476e23c-dd47-488f-a8d3-d610534d660a")
 		)
 		(pad "45" smd roundrect
 			(at -1.25 -4.1625)
@@ -5716,7 +5718,7 @@
 			(net 34 "/Microcontroller/SWCLK")
 			(pinfunction "PA30")
 			(pintype "bidirectional")
-			(uuid "318e847a-71ca-4f9e-ad67-cc232dfa5130")
+			(uuid "8a304ab5-d5ff-4d3b-bd4e-f1affeff5029")
 		)
 		(pad "46" smd roundrect
 			(at -1.75 -4.1625)
@@ -5726,7 +5728,7 @@
 			(net 33 "/Microcontroller/RX_LED_SWDIO")
 			(pinfunction "PA31")
 			(pintype "bidirectional")
-			(uuid "5ebbba19-51ee-4b6c-aa31-68e14a7a0569")
+			(uuid "4999bcaa-c444-486b-8f59-b3b58849b32f")
 		)
 		(pad "47" smd roundrect
 			(at -2.25 -4.1625)
@@ -5736,7 +5738,7 @@
 			(net 23 "/SHUTDOWN_A")
 			(pinfunction "PB02")
 			(pintype "bidirectional")
-			(uuid "316a2aa5-275a-46f4-8059-1682a5450774")
+			(uuid "44489c7f-2b9a-42fc-bf2c-42b81d6ba827")
 		)
 		(pad "48" smd roundrect
 			(at -2.75 -4.1625)
@@ -5746,9 +5748,9 @@
 			(net 68 "/SHUTDOWN_B")
 			(pinfunction "PB03")
 			(pintype "bidirectional")
-			(uuid "04907088-0dd3-4ba2-b1a6-0488548107c7")
+			(uuid "b0174c5a-71e6-4b77-9ae6-1bdbd3a3150f")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-48_7x7mm_P0.5mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-48_7x7mm_P0.5mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5788,7 +5790,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5947,7 +5949,7 @@
 				)
 			)
 		)
-		(property "Value" "931"
+		(property "Value" "931K"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "f1d26f4b-1ea4-4f2a-a8c9-d96cee8f4ca6")
@@ -5958,7 +5960,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6205,7 +6207,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6532,7 +6534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6791,7 +6793,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7038,7 +7040,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7210,7 +7212,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7314,7 +7316,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "c3a88fd0-1dfc-45fb-8f26-69ea07767793")
@@ -7325,7 +7327,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7561,7 +7563,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7720,7 +7722,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "2f5a104c-d78f-4114-848d-ad0f0e0a8856")
@@ -7731,7 +7733,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7954,7 +7956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8284,7 +8286,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8518,7 +8520,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8688,7 +8690,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8937,7 +8939,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9107,7 +9109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9319,7 +9321,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "e47107be-a2a5-4632-9fa0-a8626a1bfbf7")
@@ -9330,7 +9332,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9566,7 +9568,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9804,7 +9806,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9919,7 +9921,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOP-8_5.28x5.23mm_P1.27mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10283,7 +10285,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10517,7 +10519,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10904,7 +10906,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11074,7 +11076,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11233,7 +11235,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "777b55fb-bbbd-4bbd-9a6e-0e4a2203bd9d")
@@ -11244,7 +11246,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11480,7 +11482,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11701,7 +11703,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "ce7cb119-1df8-42ef-b2f2-2dae443be651")
@@ -11712,7 +11714,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11924,7 +11926,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.85 0)
 			(layer "F.Fab")
 			(uuid "0d52a535-573c-4d4b-b50a-4249ae970a26")
@@ -11935,7 +11937,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12182,7 +12184,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12381,7 +12383,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "731ca797-0ae2-4236-b015-ba18cfc31099")
@@ -12392,7 +12394,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12628,7 +12630,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12901,7 +12903,7 @@
 				)
 			)
 		)
-		(property "Value" "931"
+		(property "Value" "931K"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "c8906cd0-629a-4af6-b97f-6174c604825d")
@@ -12912,7 +12914,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13159,7 +13161,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13384,7 +13386,7 @@
 				)
 			)
 		)
-		(property "Value" "931"
+		(property "Value" "931K"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "4ee7f88d-4e13-4953-a145-45c352801008")
@@ -13395,7 +13397,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13642,7 +13644,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13889,7 +13891,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14160,7 +14162,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14547,7 +14549,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_Micro-B_Molex-105017-0001"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15021,7 +15023,7 @@
 				)
 			)
 		)
-		(property "Value" "4700p"
+		(property "Value" "4700pF"
 			(at 0 1.43 -90)
 			(layer "F.Fab")
 			(uuid "3faa37f9-f43e-4a39-a505-8dea3e4e48b1")
@@ -15032,7 +15034,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15256,7 +15258,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 7.366 16.858 -90)
 			(layer "F.Fab")
 			(uuid "73adb582-8345-419e-9354-bc9adf03d517")
@@ -15267,7 +15269,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15492,7 +15494,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "1f9ccce3-d270-41bf-b306-ecdce0469f39")
@@ -15503,7 +15505,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15739,7 +15741,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15909,7 +15911,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16130,7 +16132,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "a6c561c9-46ef-4d58-a4df-cb0e5bc0785e")
@@ -16141,7 +16143,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16364,7 +16366,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16600,7 +16602,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "6c041178-899c-40f7-88b5-233bb16bbe00")
@@ -16611,7 +16613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16847,7 +16849,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17017,7 +17019,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17240,7 +17242,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17488,7 +17490,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "64d397ba-11e0-437e-868c-1880802927fc")
@@ -17499,7 +17501,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17735,7 +17737,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17982,7 +17984,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18298,7 +18300,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.85 0)
 			(layer "F.Fab")
 			(uuid "91325905-1ed8-44d8-a697-566ef05dd5e2")
@@ -18309,7 +18311,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18556,7 +18558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18790,7 +18792,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19015,7 +19017,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "3841d60c-9531-40c5-986f-c9ea599ed2ed")
@@ -19026,7 +19028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19249,7 +19251,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19448,7 +19450,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "47ff0355-15ec-4aff-bea1-cac76ecaf04d")
@@ -19459,7 +19461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19684,7 +19686,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "7aa0354e-a973-4503-aeb4-9905785fa759")
@@ -19695,7 +19697,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19931,7 +19933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20610,7 +20612,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20881,7 +20883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21051,7 +21053,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21221,7 +21223,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21457,7 +21459,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21680,7 +21682,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21928,7 +21930,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.85 0)
 			(layer "F.Fab")
 			(uuid "20cb6c7c-21a2-4704-9fae-202efebc737d")
@@ -21939,7 +21941,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22186,7 +22188,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22441,7 +22443,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 0 3.65 90)
 			(layer "F.Fab")
 			(uuid "4614c9ab-c055-4223-85b8-83fc15894a97")
@@ -22452,7 +22454,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22688,7 +22690,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22909,7 +22911,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "09bbab5c-1079-40df-bd75-ee85df4e626d")
@@ -22920,7 +22922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23132,7 +23134,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23415,7 +23417,7 @@
 				)
 			)
 		)
-		(property "Value" "931"
+		(property "Value" "931K"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "65215619-c7dc-41d7-81f0-cfbdeb46cc3f")
@@ -23426,7 +23428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23673,7 +23675,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23937,7 +23939,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24203,7 +24205,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24402,7 +24404,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "e90a36c7-1880-41c9-8fe2-9ae254fff384")
@@ -24413,7 +24415,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24638,7 +24640,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "f5c31305-7d51-4998-a2e5-571e26c40eeb")
@@ -24649,7 +24651,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24861,7 +24863,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 0 3.65 90)
 			(layer "F.Fab")
 			(uuid "38bbd101-ebb1-4c32-8a84-fd0c8c04ce3a")
@@ -24872,7 +24874,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25108,7 +25110,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25374,7 +25376,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25597,7 +25599,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25857,7 +25859,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "985dd7f9-e819-4573-86f0-4c00259a8f0d")
@@ -25868,7 +25870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26104,7 +26106,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26314,7 +26316,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26550,7 +26552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26722,7 +26724,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -26837,7 +26839,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27108,7 +27110,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27379,7 +27381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27645,7 +27647,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -27870,7 +27872,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "e1b4d2c3-6fe3-4cc5-865a-de7a45847323")
@@ -27881,7 +27883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28093,7 +28095,7 @@
 				)
 			)
 		)
-		(property "Value" "453"
+		(property "Value" "453K"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "ed9d52fd-f3fc-4573-93ad-1847ab8363f9")
@@ -28104,7 +28106,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28327,7 +28329,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28561,7 +28563,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28771,7 +28773,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28930,7 +28932,7 @@
 				)
 			)
 		)
-		(property "Value" "931"
+		(property "Value" "931K"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "7f4d999b-9f3e-4b52-8862-c378c214a819")
@@ -28941,7 +28943,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29188,7 +29190,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29447,7 +29449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29683,7 +29685,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30039,7 +30041,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30312,7 +30314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SilverSat_footprints:MPU_6050"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30599,7 +30601,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "f602b00c-b6db-4a54-a307-8dfc76c6b090")
@@ -30610,7 +30612,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -30822,7 +30824,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.524 90)
 			(layer "F.Fab")
 			(uuid "12172027-e9c1-4ec7-a080-002e638deee0")
@@ -30833,7 +30835,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31069,7 +31071,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31386,7 +31388,7 @@
 				)
 			)
 		)
-		(property "Value" "453"
+		(property "Value" "453K"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "b521f3e8-95c0-4ad1-9353-df7a4889a9ee")
@@ -31397,7 +31399,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31620,7 +31622,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31886,7 +31888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32107,7 +32109,7 @@
 				)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "0.1uF"
 			(at 0 1.43 90)
 			(layer "F.Fab")
 			(uuid "29471893-52bf-40dc-82e6-7c747611bfcc")
@@ -32118,7 +32120,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32354,7 +32356,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32590,7 +32592,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 0 3.65 0)
 			(layer "F.Fab")
 			(uuid "3c130b4a-2912-4367-b0ec-f0d17193620a")
@@ -32601,7 +32603,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32848,7 +32850,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33115,7 +33117,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "SilverSat_footprints:TheBus2x26"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34036,7 +34038,7 @@
 				)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 0 1.85 0)
 			(layer "F.Fab")
 			(uuid "9be869b6-351d-4e16-aee0-2bfe5c0243cc")
@@ -34047,7 +34049,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37019,7 +37021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_2.0x2.0mm"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37189,7 +37191,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
