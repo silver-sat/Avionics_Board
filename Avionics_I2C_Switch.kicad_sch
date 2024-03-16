@@ -1112,7 +1112,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74CB3Q3306A"
+		(property "MPN" "SN74CB3Q3306APWR"
+			(at 107.95 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
 			(at 107.95 50.8 0)
 			(effects
 				(font
@@ -1508,7 +1517,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1002V"
+		(property "MPN" "ERJ-3RBD123V"
+			(at 131.445 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 131.445 74.93 0)
 			(effects
 				(font

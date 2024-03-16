@@ -2030,6 +2030,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "74LVC1G07MDCKREPG4"
+			(at 62.23 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
+			(at 62.23 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "758fb4c2-1c0f-4140-bad1-4920539d6554")
 		)
@@ -2400,6 +2418,24 @@
 			)
 		)
 		(property "Part_Number" "74LVC1G07MDCKREPG4"
+			(at 197.485 31.115 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74LVC1G07MDCKREPG4"
+			(at 197.485 31.115 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
 			(at 197.485 31.115 0)
 			(effects
 				(font
@@ -2786,6 +2822,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "74LVC1G07MDCKREPG4"
+			(at 62.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
+			(at 62.23 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73a489e2-4d4b-4db6-9038-a287d22695d5")
 		)
@@ -3156,6 +3210,24 @@
 			)
 		)
 		(property "Part_Number" "74LVC1G07MDCKREPG4"
+			(at 199.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74LVC1G07MDCKREPG4"
+			(at 199.39 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
 			(at 199.39 80.01 0)
 			(effects
 				(font
@@ -3542,6 +3614,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "74LVC1G07MDCKREPG4"
+			(at 60.96 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
+			(at 60.96 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "351baeec-82aa-4f6d-9dfc-19e4b7d92d8c")
 		)
@@ -3920,6 +4010,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "74LVC1G07MDCKREPG4"
+			(at 199.39 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
+			(at 199.39 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c8dd01d-956b-4cb9-aa36-c392048c5fe1")
 		)
@@ -4290,6 +4398,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 59.69 79.375 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 59.69 79.375 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fdd5d360-3d2b-48f9-a50e-c75faecb84ee")
 		)
@@ -4493,6 +4619,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 58.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 58.42 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 58.42 129.54 0)
 			(effects
 				(font
@@ -4721,6 +4865,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 196.85 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 196.85 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3ea78a83-07ee-4aa3-9631-39303970b5ec")
 		)
@@ -4856,6 +5018,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 194.945 26.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 194.945 26.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f996d26f-a0c1-4d42-9720-baeea413f33b")
 		)
@@ -4916,6 +5096,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 196.85 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 196.85 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 196.85 124.46 0)
 			(effects
 				(font
@@ -5051,6 +5249,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 59.69 28.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 59.69 28.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 59.69 28.575 0)
 			(effects
 				(font

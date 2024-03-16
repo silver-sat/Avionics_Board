@@ -1031,6 +1031,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "TPS3813K33QDBVRQ1"
+			(at 160.02 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
+			(at 160.02 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9faf1f0e-8c59-45d9-87bd-038d76b0ab68")
 		)

@@ -1752,6 +1752,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Analog"
+			(at 132.08 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6b7621fe-1563-414a-8b61-fe85a98caf35")
 		)
@@ -2019,6 +2028,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Panasonic"
+			(at 100.33 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7b94ddb-be34-430f-a4d9-1efc5f3c326f")
 		)
@@ -2106,6 +2124,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Panasonic"
+			(at 113.03 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4aa34793-001c-422a-9a9e-f2fa24b7c918")
 		)
@@ -2184,7 +2211,16 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1002V"
+		(property "MPN" "ERJ-3RBD123V"
+			(at 154.94 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 154.94 80.01 0)
 			(effects
 				(font

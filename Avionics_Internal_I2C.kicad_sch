@@ -1777,6 +1777,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3EKF4701V"
+			(at 100.33 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 100.33 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cef194c4-8c2a-48f9-a5fa-a864f7f69fea")
 		)
@@ -1845,6 +1863,24 @@
 			)
 		)
 		(property "Part_Number" "ERJ-3EKF4701V"
+			(at 100.33 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-3EKF4701V"
+			(at 100.33 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 100.33 114.3 0)
 			(effects
 				(font
@@ -2222,6 +2258,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 91.44 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 91.44 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "836ebb4c-0ff4-4f8e-981a-f3860eb4907b")
 		)
@@ -2298,6 +2352,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 91.44 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 91.44 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3bb97f31-473c-42cf-8350-162c485ccb67")
 		)
@@ -2366,6 +2438,24 @@
 			)
 		)
 		(property "Part_Number" "ERJ-3EKF1002V"
+			(at 91.44 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-3RBD123V"
+			(at 91.44 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
 			(at 91.44 95.25 0)
 			(effects
 				(font

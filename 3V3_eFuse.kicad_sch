@@ -2449,7 +2449,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1002V"
+		(property "MPN" "ERJ-3RBD123V"
 			(at 109.22 78.74 0)
 			(effects
 				(font
@@ -2543,7 +2543,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1002V"
+		(property "MPN" "ERJ-3RBD123V"
 			(at 137.16 58.42 0)
 			(effects
 				(font
@@ -2630,6 +2630,15 @@
 			)
 		)
 		(property "MPN" "FPF2000"
+			(at 130.81 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Onsemi"
 			(at 130.81 76.2 0)
 			(effects
 				(font
@@ -3021,7 +3030,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1002V"
+		(property "MPN" "ERJ-3RBD123V"
 			(at 137.16 48.26 0)
 			(effects
 				(font
@@ -3115,7 +3124,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3EKF1002V"
+		(property "MPN" "ERJ-3RBD123V"
 			(at 179.07 81.28 0)
 			(effects
 				(font
@@ -3403,6 +3412,15 @@
 			)
 		)
 		(property "MPN" "TPS2105MDBVREP"
+			(at 207.01 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TI"
 			(at 207.01 76.2 0)
 			(effects
 				(font
