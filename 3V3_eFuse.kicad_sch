@@ -1758,9 +1758,9 @@
 		(at 170.18 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1ee477b7-2f12-418c-a7c5-ddf950e6d7a9")
 		(property "Reference" "TP11"
@@ -2086,9 +2086,9 @@
 		(at 234.95 66.675 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3b265694-06c5-4a2a-8a83-281778eea444")
 		(property "Reference" "TP12"
@@ -2449,7 +2449,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 109.22 78.74 0)
 			(effects
 				(font
@@ -2543,7 +2543,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 137.16 58.42 0)
 			(effects
 				(font
@@ -3030,7 +3030,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 137.16 48.26 0)
 			(effects
 				(font
@@ -3124,7 +3124,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 179.07 81.28 0)
 			(effects
 				(font

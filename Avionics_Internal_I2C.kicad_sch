@@ -278,23 +278,25 @@
 				)
 			)
 		)
-		(symbol "SilverSat_symbols:AdaFruitMPU6050"
+		(symbol "GND_1"
+			(power)
+			(pin_numbers hide)
 			(pin_names
-				(offset 1.016)
-			)
+				(offset 0) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
-			(property "Value" "AdaFruitMPU6050"
-				(at 0 0 0)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -319,7 +321,128 @@
 					(hide yes)
 				)
 			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_1_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "SilverSat_symbols:AdaFruitMPU6050"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U2"
+				(at 0 -2.159 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "AdaFruitMPU6050"
+				(at 0 -4.4704 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SilverSat_footprints:MPU_6050"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Part_Number" "MPU6050"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "3886"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Adafruit"
 				(at 0 0 0)
 				(effects
 					(font
@@ -551,6 +674,24 @@
 						)
 					)
 					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 -33.02 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1426,7 +1567,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "6050"
+		(property "MPN" "3886"
 			(at 139.7 81.28 0)
 			(effects
 				(font
@@ -1479,6 +1620,9 @@
 		)
 		(pin "9"
 			(uuid "6c4ba3f0-d5e9-48c2-b9af-b09b128a4db5")
+		)
+		(pin "GND"
+			(uuid "cd5e6580-1942-45f2-9153-4c325f8bee47")
 		)
 		(instances
 			(project "Avionics_Board"
@@ -1542,6 +1686,24 @@
 			)
 		)
 		(property "Part_Number" "CY15B256J"
+			(at 102.87 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CY15B256J-SXA"
+			(at 102.87 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon"
 			(at 102.87 82.55 0)
 			(effects
 				(font
@@ -2258,7 +2420,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 91.44 90.17 0)
 			(effects
 				(font
@@ -2352,7 +2514,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 91.44 92.71 0)
 			(effects
 				(font
@@ -2446,7 +2608,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 91.44 95.25 0)
 			(effects
 				(font
@@ -2607,6 +2769,73 @@
 			(project "Avionics_Board"
 				(path "/e54e5e19-1deb-49a9-8629-617db8e434c0/00000000-0000-0000-0000-00006215caf1"
 					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 139.7 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f26dfe7a-8d5d-4672-a916-987a7f0dc203")
+		(property "Reference" "#PWR058"
+			(at 139.7 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 139.7 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 139.7 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c4603aa-fdcc-4997-ba1f-de489e1312fb")
+		)
+		(instances
+			(project "Avionics_Board"
+				(path "/e54e5e19-1deb-49a9-8629-617db8e434c0/00000000-0000-0000-0000-00006215caf1"
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)

@@ -2210,7 +2210,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 93.98 74.93 0)
 			(effects
 				(font
@@ -2438,7 +2438,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 93.98 134.62 0)
 			(effects
 				(font

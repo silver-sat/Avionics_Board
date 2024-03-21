@@ -6269,9 +6269,9 @@
 		(at 256.54 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "06333ef4-4727-40ee-93b0-b359c25fb4af")
 		(property "Reference" "TP8"
 			(at 262.89 59.69 90)
@@ -6334,9 +6334,9 @@
 		(at 59.055 153.67 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "06ab5a3a-0c4c-4a9b-98b1-a68a0d16fae6")
 		(property "Reference" "TP1"
 			(at 52.705 152.4 90)
@@ -6399,9 +6399,9 @@
 		(at 59.055 172.72 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "08efcfe4-57ea-4301-89cb-f52a47e02adc")
 		(property "Reference" "TP5"
 			(at 52.705 171.45 90)
@@ -6464,7 +6464,7 @@
 		(at 104.14 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0ebecf9b-eb79-435e-a112-f7f24dbe72bb")
@@ -6589,7 +6589,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 130.81 179.07 0)
 			(effects
 				(font
@@ -6628,7 +6628,7 @@
 		(at 57.15 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2a595d80-15cf-4357-8076-478d91d106d5")
@@ -6761,9 +6761,9 @@
 		(at 59.055 161.29 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "31bbd57b-e767-4c80-8266-9b13b501fe15")
 		(property "Reference" "TP3"
 			(at 52.705 160.02 90)
@@ -6828,7 +6828,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(uuid "33cc6aba-d89e-4070-9a52-d4f631b5fb38")
 		(property "Reference" "JP3"
 			(at 213.36 71.12 0)
@@ -6894,9 +6894,9 @@
 		(at 59.055 168.91 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3f916bf1-181b-44a6-a3f1-c7b0e892edd0")
 		(property "Reference" "TP4"
 			(at 52.705 167.64 90)
@@ -6959,9 +6959,9 @@
 		(at 256.54 57.15 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3fe92182-b7fe-40d8-8786-d33f9e0c8b06")
 		(property "Reference" "TP7"
 			(at 262.89 57.15 90)
@@ -7024,9 +7024,9 @@
 		(at 118.745 168.91 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "40da00dd-490a-4c78-a131-88a1968dbb99")
 		(property "Reference" "TP6"
 			(at 125.73 168.91 90)
@@ -7223,7 +7223,7 @@
 		(at 88.9 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "54f145c9-7860-4c24-b346-9d9b6f12886f")
@@ -7292,7 +7292,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "569e50e5-a157-42ca-8080-9db2567713a0")
 		(property "Reference" "JP2"
 			(at 213.36 68.58 0)
@@ -7417,7 +7417,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 138.43 179.07 0)
 			(effects
 				(font
@@ -7455,9 +7455,9 @@
 		(at 256.54 62.23 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5ad60bc3-1e73-4816-868c-b5765565699c")
 		(property "Reference" "TP9"
 			(at 262.89 62.23 90)
@@ -7579,7 +7579,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 153.67 179.705 0)
 			(effects
 				(font
@@ -7617,9 +7617,9 @@
 		(at 59.055 157.48 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6720544a-4399-4345-a3e1-d1361e49a9fd")
 		(property "Reference" "TP2"
 			(at 52.705 156.21 90)
@@ -7682,7 +7682,7 @@
 		(at 73.66 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7d24f687-79aa-4b8c-8284-b78868812a22")
@@ -7817,7 +7817,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "988f058d-b64c-46ee-bdc3-9ba220ec9b57")
 		(property "Reference" "JP5"
 			(at 213.36 76.2 0)
@@ -8123,7 +8123,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "bfaccfd3-6dab-4089-9d06-6f22b10c1176")
 		(property "Reference" "JP4"
 			(at 213.36 73.66 0)
@@ -8191,7 +8191,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c0213208-e71e-42b4-a443-bd71d76119a8")
 		(property "Reference" "JP7"
 			(at 213.36 81.28 0)
@@ -8316,7 +8316,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 146.05 179.07 0)
 			(effects
 				(font
@@ -8554,7 +8554,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f39e9098-406c-4b2b-a47e-2a54cd491812")
 		(property "Reference" "JP6"
 			(at 213.36 78.74 0)
@@ -8622,7 +8622,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "faff9204-08cc-4fed-9e0c-26327c1ab6b5")
 		(property "Reference" "JP1"
 			(at 53.34 128.27 0)

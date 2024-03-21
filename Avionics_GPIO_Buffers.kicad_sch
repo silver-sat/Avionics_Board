@@ -4398,7 +4398,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 59.69 79.375 0)
 			(effects
 				(font
@@ -4627,7 +4627,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 58.42 129.54 0)
 			(effects
 				(font
@@ -4865,7 +4865,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 196.85 74.93 0)
 			(effects
 				(font
@@ -5018,7 +5018,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 194.945 26.035 0)
 			(effects
 				(font
@@ -5104,7 +5104,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 196.85 124.46 0)
 			(effects
 				(font
@@ -5257,7 +5257,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 59.69 28.575 0)
 			(effects
 				(font

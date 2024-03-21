@@ -2211,7 +2211,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3RBD123V"
+		(property "MPN" "ERJ-3RBD1002V"
 			(at 154.94 80.01 0)
 			(effects
 				(font
@@ -2474,9 +2474,9 @@
 		(at 173.99 86.995 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1bd63f2f-ea58-49a5-bdb9-19e3a342ddfa")
 		(property "Reference" "TP10"
