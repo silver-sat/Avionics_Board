@@ -3365,6 +3365,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 153.67) (xy 228.6 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f699e48-6542-4e69-9223-f08d49578c63")
+	)
+	(wire
+		(pts
 			(xy 227.33 115.57) (xy 227.33 133.35)
 		)
 		(stroke
@@ -3425,6 +3435,16 @@
 	)
 	(wire
 		(pts
+			(xy 15.24 34.29) (xy 26.67 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f7b9e8e-b34a-4fcd-85d5-35c78be03359")
+	)
+	(wire
+		(pts
 			(xy 46.99 125.73) (xy 49.53 125.73)
 		)
 		(stroke
@@ -3472,6 +3492,16 @@
 			(type default)
 		)
 		(uuid "271cd2c2-a735-4e52-b191-7a171fb22fd0")
+	)
+	(wire
+		(pts
+			(xy 243.84 163.83) (xy 243.84 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27a6f9ba-b1f5-4a5c-93d8-c43946a607f0")
 	)
 	(wire
 		(pts
@@ -3975,6 +4005,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 153.67) (xy 243.84 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e9b89bc-7a45-4de5-b27c-5a7ebc6b911a")
+	)
+	(wire
+		(pts
 			(xy 207.01 36.83) (xy 229.87 36.83)
 		)
 		(stroke
@@ -4285,6 +4325,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 153.67) (xy 228.6 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b978f6a0-1e98-40c6-8210-48600a98c2c3")
+	)
+	(wire
+		(pts
 			(xy 30.48 166.37) (xy 41.275 166.37)
 		)
 		(stroke
@@ -4512,6 +4562,16 @@
 			(type default)
 		)
 		(uuid "d8e21271-e364-4417-9f32-600b2602969c")
+	)
+	(wire
+		(pts
+			(xy 228.6 163.83) (xy 243.84 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e06208d5-c29d-4bf4-a12e-7fabba0d26b9")
 	)
 	(wire
 		(pts
@@ -4864,6 +4924,17 @@
 		)
 		(uuid "088f77ba-fca9-42b3-876e-a6937267f957")
 	)
+	(label "BATT_RAW"
+		(at 26.67 34.29 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0f3fb5d7-ab51-479c-bd35-b6da7eb40562")
+	)
 	(label "3V3_USB"
 		(at 53.34 31.115 0)
 		(fields_autoplaced yes)
@@ -4874,6 +4945,17 @@
 			(justify left bottom)
 		)
 		(uuid "0f5847c8-8800-4b2b-bcdc-38372d5c201e")
+	)
+	(label "BATT_RAW"
+		(at 243.84 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "103bd946-36b3-4583-996c-336b5b731271")
 	)
 	(label "SHUTDOWN_B"
 		(at 152.4 157.48 0)
@@ -9969,6 +10051,16 @@
 				(justify right)
 			)
 			(uuid "b43264aa-ff4f-4b09-9686-643136004246")
+		)
+		(pin "BATT_RAW" input
+			(at 26.67 34.29 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d644d122-71d1-4273-9520-e5f180931219")
 		)
 		(instances
 			(project "Avionics_Board"
