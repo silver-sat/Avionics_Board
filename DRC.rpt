@@ -1,0 +1,14 @@
+** Drc report for Avionics_Board.kicad_pcb **
+** Created on 2024-04-20T15:43:11-0400 **
+
+** Found 1 DRC violations **
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 15.00 mils; actual 0.00 mils)
+    Rule: board setup constraints edge; error
+    @(5820.00 mils, 2822.00 mils): Segment on Edge.Cuts
+    @(5700.00 mils, 2700.00 mils): PTH pad 1 [GND] of H4
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

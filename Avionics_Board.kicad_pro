@@ -57,9 +57,9 @@
         "other_text_thickness": 0.127,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.4892,
-          "height": 3.81,
-          "width": 3.81
+          "drill": 0.0,
+          "height": 3.0,
+          "width": 2.1
         },
         "silk_line_width": 0.127,
         "silk_text_italic": false,
@@ -107,7 +107,7 @@
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
         "lib_footprint_mismatch": "warning",
-        "malformed_courtyard": "error",
+        "malformed_courtyard": "warning",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
@@ -148,7 +148,7 @@
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
-        "min_text_thickness": 0.08,
+        "min_text_thickness": 0.07873999999999999,
         "min_through_hole_diameter": 0.254,
         "min_track_width": 0.127,
         "min_via_annular_width": 0.127,
