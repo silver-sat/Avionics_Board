@@ -542,7 +542,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Avionics_Board.step",
       "svg": "",
       "vrml": ""
     },

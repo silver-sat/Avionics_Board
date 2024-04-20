@@ -2589,9 +2589,9 @@
 		(at 76.2 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2179f12a-8f43-428e-8e5e-ffb14553761e")
 		(property "Reference" "JP8"
@@ -2821,9 +2821,9 @@
 		(at 76.2 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2e9b374a-ee6a-4709-a0ee-fe5c26e91026")
 		(property "Reference" "JP9"
@@ -3517,6 +3517,15 @@
 			)
 		)
 		(property "Description" "300mA, Low Noise, Linear Regulator with output active discharge function, 1.7-5.5V input voltage range, 3.3V fixed positive output, TSOT-23-5"
+			(at 92.71 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "NCV8114ASN330T1G"
 			(at 92.71 76.2 0)
 			(effects
 				(font
@@ -4554,9 +4563,9 @@
 		(at 107.95 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b4c0145d-3e2a-4a1b-8a25-919094a34581")
 		(property "Reference" "JP10"

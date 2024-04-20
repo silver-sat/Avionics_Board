@@ -603,8 +603,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
+			(property "Reference" "J6"
+				(at 0 -11.43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -612,14 +612,14 @@
 				)
 			)
 			(property "Value" "Conn_01x04"
-				(at 0 -7.62 0)
+				(at 0 -8.89 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal"
 				(at 0 0 0)
 				(effects
 					(font
@@ -638,6 +638,24 @@
 				)
 			)
 			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "53261-0471"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Molex"
 				(at 0 0 0)
 				(effects
 					(font
@@ -785,6 +803,24 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 90)
+					(length 3.81)
+					(name "MP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "MP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10621,6 +10657,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "53261-0471"
+			(at 73.66 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Molex"
+			(at 73.66 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fad8945e-9312-4711-90fe-61262b36f983")
 		)
@@ -10632,6 +10686,9 @@
 		)
 		(pin "3"
 			(uuid "fb801e07-0635-4dbd-8d44-761e4e076cfb")
+		)
+		(pin "MP"
+			(uuid "32c5fe50-0ed6-4d17-83bb-fbf5b7240e0f")
 		)
 		(instances
 			(project "Avionics_Board"
@@ -11135,6 +11192,72 @@
 			(project "Avionics_Board"
 				(path "/e54e5e19-1deb-49a9-8629-617db8e434c0/00000000-0000-0000-0000-00006215c65c"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 44.45 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d66611ad-d55e-4f01-a467-9142e12dbceb")
+		(property "Reference" "#PWR067"
+			(at 80.01 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 78.0542 44.323 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 73.66 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb7579bc-ad4b-49b5-bc52-b0ca7f50eb4c")
+		)
+		(instances
+			(project "Avionics_Board"
+				(path "/e54e5e19-1deb-49a9-8629-617db8e434c0/00000000-0000-0000-0000-00006215c65c"
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
