@@ -6987,8 +6987,8 @@
 		(at 209.55 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
+		(in_bom no)
+		(on_board yes)
 		(dnp yes)
 		(uuid "33cc6aba-d89e-4070-9a52-d4f631b5fb38")
 		(property "Reference" "JP3"
