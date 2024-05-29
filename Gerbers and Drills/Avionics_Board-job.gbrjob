@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.4)"
+      "Version": "8.0.1"
     },
-    "CreationDate": "2022-07-08T23:35:13-04:00"
+    "CreationDate": "2024-05-29T09:56:21-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,7 +14,7 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 90.37,
+      "X": 115.67,
       "Y": 96.085
     },
     "LayerNumber": 4,
@@ -76,11 +76,6 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Avionics_Board-B_Silkscreen.gbo",
-      "FileFunction": "Legend,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "Avionics_Board-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
@@ -109,7 +104,7 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Purple",
+      "Color": "R80G0B80",
       "Thickness": 0.0254,
       "Material": "Epoxy",
       "Name": "Top Solder Mask"
@@ -157,7 +152,7 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Purple",
+      "Color": "R80G0B80",
       "Thickness": 0.0254,
       "Material": "Epoxy",
       "Name": "Bottom Solder Mask"
