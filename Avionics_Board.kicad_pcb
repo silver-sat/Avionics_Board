@@ -1295,7 +1295,7 @@
 		(path "/00000000-0000-0000-0000-00006215fbc6/6c0d0d24-9cc3-41e6-aa41-98cf288bbc91")
 		(sheetname "GPIO Buffers")
 		(sheetfile "Avionics_GPIO_Buffers.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 0 -1.56)
 			(end -1.8 -1.56)
@@ -10702,7 +10702,7 @@
 		(path "/b136868d-b8e5-471b-8faa-1ba2a53cb5e0")
 		(sheetname "Root")
 		(sheetfile "Avionics_Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 1.75 0)
@@ -16279,7 +16279,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal"
+		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17290,7 +17290,7 @@
 		(path "/00000000-0000-0000-0000-00006215fbc6/69c3d5ec-aec0-48ea-ba8e-8a99f0de8d4b")
 		(sheetname "GPIO Buffers")
 		(sheetfile "Avionics_GPIO_Buffers.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 0 -1.56)
 			(end -1.8 -1.56)
@@ -17913,7 +17913,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Bridged"
-			(at 0 1.9 270)
+			(at 0 1.9 -90)
 			(layer "F.Fab")
 			(uuid "f279639e-8934-4000-b9a6-a96b1213d975")
 			(effects
@@ -20647,7 +20647,7 @@
 		(path "/6a350726-e829-41a4-9ea3-92be8b9f3dbb")
 		(sheetname "Root")
 		(sheetfile "Avionics_Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 1.75 0)
@@ -22980,7 +22980,7 @@
 		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip")
 		(tags "net tie solder jumper bridged")
 		(property "Reference" "JP10"
-			(at 0 1.5911 270)
+			(at 0 1.5911 -90)
 			(layer "F.SilkS")
 			(uuid "862389c9-6505-4eb6-8acd-e22aa01b62ac")
 			(effects
@@ -25231,7 +25231,7 @@
 		(path "/00000000-0000-0000-0000-00006215fbc6/d15d6977-aec8-482c-9dbd-991be73a36c9")
 		(sheetname "GPIO Buffers")
 		(sheetfile "Avionics_GPIO_Buffers.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 0 -1.56)
 			(end -1.8 -1.56)
@@ -30774,7 +30774,7 @@
 		(path "/00000000-0000-0000-0000-00006215fbc6/0ebc3281-575c-40f9-be56-5b0f44ec4db8")
 		(sheetname "GPIO Buffers")
 		(sheetfile "Avionics_GPIO_Buffers.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 0 -1.56)
 			(end -1.8 -1.56)
@@ -32066,7 +32066,7 @@
 		(path "/00000000-0000-0000-0000-00006215fbc6/f429e934-90dc-4964-aadf-932c6f1ddf03")
 		(sheetname "GPIO Buffers")
 		(sheetfile "Avionics_GPIO_Buffers.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 0 -1.56)
 			(end -1.8 -1.56)
@@ -32337,7 +32337,7 @@
 		(path "/00000000-0000-0000-0000-00006215fbc6/d9561d99-7e78-4e0f-be46-e670e54120af")
 		(sheetname "GPIO Buffers")
 		(sheetfile "Avionics_GPIO_Buffers.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start 0 -1.56)
 			(end -1.8 -1.56)
@@ -33869,7 +33869,7 @@
 		(path "/70ef9125-11f5-4c7e-95b8-f3a6f1fc4d2a")
 		(sheetname "Root")
 		(sheetfile "Avionics_Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 1.75 0)
@@ -35192,7 +35192,7 @@
 		(path "/00000000-0000-0000-0000-00006215cd22/cf9cf0b1-4907-4627-852a-7817280fe4bf")
 		(sheetname "Real Time Clock")
 		(sheetfile "Avionics_Real_Time_Clock.kicad_sch")
-		(attr through_hole)
+		(attr through_hole dnp)
 		(fp_line
 			(start 6.46 -1.33)
 			(end 4.81 -1.33)
@@ -40118,7 +40118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LOGO"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45508,12 +45508,12 @@
 					(xy 148.079703 91.040273) (xy 148.010997 91.072827) (xy 147.935355 91.093891) (xy 147.852777 91.103466)
 					(xy 147.82371 91.104104) (xy 147.738834 91.09836) (xy 147.66092 91.081125) (xy 147.589967 91.052401)
 					(xy 147.525976 91.012188) (xy 147.468947 90.960485) (xy 147.451484 90.940697) (xy 147.405059 90.875284)
-					(xy 147.368239 90.801601) (xy 147.341025 90.719647) (xy 147.325683 90.645035) (xy 147.318706 90.580382)
-					(xy 147.722093 90.580382) (xy 147.732016 90.655562) (xy 147.779253 90.714035) (xy 147.82371 90.722945)
-					(xy 147.893939 90.695658) (xy 147.923937 90.621453) (xy 147.926445 90.580382) (xy 147.926445 90.096488)
-					(xy 147.90949 90.023947) (xy 147.84207 89.985433) (xy 147.82371 89.984448) (xy 147.750772 90.009067)
-					(xy 147.72249 90.082921) (xy 147.722093 90.096488) (xy 147.722093 90.580382) (xy 147.318706 90.580382)
-					(xy 147.317012 90.564679) (xy 147.314877 90.496259) (xy 147.314877 90.180611) (xy 147.318212 90.099838)
+					(xy 147.368239 90.801601) (xy 147.341025 90.719647) (xy 147.325683 90.645035) (xy 147.317012 90.564679)
+					(xy 147.314877 90.496259) (xy 147.314877 90.180611) (xy 147.318212 90.099838) (xy 147.318657 90.096488)
+					(xy 147.722093 90.096488) (xy 147.722093 90.580382) (xy 147.732016 90.655562) (xy 147.779253 90.714035)
+					(xy 147.82371 90.722945) (xy 147.893939 90.695658) (xy 147.923937 90.621453) (xy 147.926445 90.580382)
+					(xy 147.926445 90.096488) (xy 147.90949 90.023947) (xy 147.84207 89.985433) (xy 147.82371 89.984448)
+					(xy 147.750772 90.009067) (xy 147.72249 90.082921) (xy 147.722093 90.096488) (xy 147.318657 90.096488)
 					(xy 147.328218 90.024553) (xy 147.349029 89.941456) (xy 147.379445 89.866264) (xy 147.419467 89.798975)
 					(xy 147.451484 89.758507) (xy 147.506193 89.705757) (xy 147.567863 89.663921) (xy 147.636495 89.632999)
 					(xy 147.712089 89.61299) (xy 147.794645 89.603895) (xy 147.82371 89.603289)

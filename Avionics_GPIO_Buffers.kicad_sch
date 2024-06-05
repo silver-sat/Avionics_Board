@@ -4438,7 +4438,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0ebc3281-575c-40f9-be56-5b0f44ec4db8")
 		(property "Reference" "U22"
 			(at 196.85 97.409 0)
@@ -4667,7 +4667,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "69c3d5ec-aec0-48ea-ba8e-8a99f0de8d4b")
 		(property "Reference" "U18"
 			(at 59.69 101.219 0)
@@ -4743,7 +4743,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6c0d0d24-9cc3-41e6-aa41-98cf288bbc91")
 		(property "Reference" "U24"
 			(at 196.85 146.304 0)
@@ -5364,7 +5364,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d15d6977-aec8-482c-9dbd-991be73a36c9")
 		(property "Reference" "U20"
 			(at 194.945 48.514 0)
@@ -5507,7 +5507,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d9561d99-7e78-4e0f-be46-e670e54120af")
 		(property "Reference" "U16"
 			(at 59.69 51.054 0)
@@ -5650,7 +5650,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f429e934-90dc-4964-aadf-932c6f1ddf03")
 		(property "Reference" "U14"
 			(at 58.42 152.019 0)
